@@ -1,16 +1,13 @@
-### Hi there 👋
+---A first look into me and my work---
 
-<!--
-**ManuelMarAco/ManuelMarAco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋
+Hi, I'm Manuel, a programming student from Spain that is currently in their first year of web development.
 
-Here are some ideas to get you started:
+🎭
+I have great skills in improvisation, creative thinking and inner-team communication.
+I haven't done any programming prior, but I'm eager to start. I'm currently learning Java, HTML, XML+DTD, Bootstrap and SQL.
+I also have an amateur background on tabletop game design, simple robot commands and general problem resolution.
+My prefered pronouns are they/them, although I go by any.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧
+If you would like to contact me I'm available at martinacostamanuel.tramites@gmail.com, but my mindful I may not check my inbox frequently.
