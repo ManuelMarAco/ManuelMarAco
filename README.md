@@ -1,7 +1,7 @@
 ---A first look into me and my work---
 
 👋
-Hi, I'm Manuel, a programming student from Spain that is currently in their first year of web development.
+Hi, I'm Nora (Manuel is my legal name), a programming student from Spain that is currently in their first year of web development.
 
 🎭
 I have great skills in improvisation, creative thinking and inner-team communication.
