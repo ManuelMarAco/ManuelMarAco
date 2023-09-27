@@ -9,5 +9,5 @@ I haven't done any programming prior, but I'm eager to start. I'm learning Java,
 I also have an amateur background on tabletop game design, simple robot commands and general problem resolution.
 My prefered pronouns are they/them, although I go by any.
 
-  📧 Contact.
+  📧 Contact.<br>
 If you would like to contact me I'm available at martinacostamanuel.tramites@gmail.com, but be mindful I may not check my inbox frequently.
